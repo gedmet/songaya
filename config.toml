@@ -3,7 +3,7 @@
 baseURL = 'https://example.com/'
 title = 'Hugo Book'
 theme = 'book'
-publishDir = 'docs'
+publishDir = "docs"
 
 # Book configuration
 disablePathToLower = true
