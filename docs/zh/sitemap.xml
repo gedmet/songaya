@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gedmet.github.io/songaya/zh/categories/</loc>
+    <loc>https://songaya.com/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gedmet.github.io/songaya/categories/"
+                href="https://songaya.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gedmet.github.io/songaya/ru/categories/"
+                href="https://songaya.com/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gedmet.github.io/songaya/zh/categories/"
+                href="https://songaya.com/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://gedmet.github.io/songaya/zh/</loc>
+    <loc>https://songaya.com/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gedmet.github.io/songaya/"
+                href="https://songaya.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gedmet.github.io/songaya/ru/"
+                href="https://songaya.com/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gedmet.github.io/songaya/zh/"
+                href="https://songaya.com/zh/"
                 />
   </url>
   
   <url>
-    <loc>https://gedmet.github.io/songaya/zh/tags/</loc>
+    <loc>https://songaya.com/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gedmet.github.io/songaya/tags/"
+                href="https://songaya.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://gedmet.github.io/songaya/ru/tags/"
+                href="https://songaya.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://gedmet.github.io/songaya/zh/tags/"
+                href="https://songaya.com/zh/tags/"
                 />
   </url>
   

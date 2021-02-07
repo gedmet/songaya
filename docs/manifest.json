@@ -1,14 +1,14 @@
 {
   "name": "Son Gayá",
   "short_name": "Son Gayá",
-  "start_url": "/songaya/",
-  "scope": "/songaya/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/songaya/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
