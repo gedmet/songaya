@@ -2,6 +2,8 @@
 
 Columns help organize shorter pieces of content horizontally for readability.
 
+{{< figure src="/img/X-308.jpg" title="Steve Francia" >}}
+
 
 ```html
 {{</* columns */>}} <!-- begin columns block -->
