@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/songaya/sw.js",{scope:"/songaya/"});}

@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/ru/categories/</loc>
+    <loc>https://gedmet.github.io/songaya/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://gedmet.github.io/songaya/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/categories/"
+                href="https://gedmet.github.io/songaya/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/categories/"
+                href="https://gedmet.github.io/songaya/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/ru/</loc>
+    <loc>https://gedmet.github.io/songaya/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://gedmet.github.io/songaya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/"
+                href="https://gedmet.github.io/songaya/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://gedmet.github.io/songaya/ru/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/ru/tags/</loc>
+    <loc>https://gedmet.github.io/songaya/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://gedmet.github.io/songaya/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/tags/"
+                href="https://gedmet.github.io/songaya/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://gedmet.github.io/songaya/ru/tags/"
                 />
   </url>
   
